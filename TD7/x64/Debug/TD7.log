@@ -1,2 +1,10 @@
 ﻿  TD7.c
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\yvals_core.h(23,1): fatal error C1189: #error:  STL1003: Unexpected compiler, expected C++ compiler.
+C:\Users\n.paiva\source\repos\TD7\ProgC_SystemeWindows_TD7\TD7\TD7.c(125,40): warning C4047: 'fonction' : les niveaux d'indirection de 'SIZE_T' et de 'void *' sont différents
+C:\Users\n.paiva\source\repos\TD7\ProgC_SystemeWindows_TD7\TD7\TD7.c(125,36): warning C4024: 'CreateThread' : types différents pour le paramètre formel et réel 2
+C:\Users\n.paiva\source\repos\TD7\ProgC_SystemeWindows_TD7\TD7\TD7.c(125,94): warning C4047: 'fonction' : les niveaux d'indirection de 'DWORD' et de 'void *' sont différents
+C:\Users\n.paiva\source\repos\TD7\ProgC_SystemeWindows_TD7\TD7\TD7.c(125,90): warning C4024: 'CreateThread' : types différents pour le paramètre formel et réel 5
+C:\Users\n.paiva\source\repos\TD7\ProgC_SystemeWindows_TD7\TD7\TD7.c(132,40): warning C4047: 'fonction' : les niveaux d'indirection de 'SIZE_T' et de 'void *' sont différents
+C:\Users\n.paiva\source\repos\TD7\ProgC_SystemeWindows_TD7\TD7\TD7.c(132,36): warning C4024: 'CreateThread' : types différents pour le paramètre formel et réel 2
+C:\Users\n.paiva\source\repos\TD7\ProgC_SystemeWindows_TD7\TD7\TD7.c(132,94): warning C4047: 'fonction' : les niveaux d'indirection de 'DWORD' et de 'void *' sont différents
+C:\Users\n.paiva\source\repos\TD7\ProgC_SystemeWindows_TD7\TD7\TD7.c(132,90): warning C4024: 'CreateThread' : types différents pour le paramètre formel et réel 5
+  TD7.vcxproj -> C:\Users\n.paiva\source\repos\TD7\ProgC_SystemeWindows_TD7\x64\Debug\TD7.exe
